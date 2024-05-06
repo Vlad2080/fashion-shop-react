@@ -1,0 +1,80 @@
+/* community.css */
+
+.community {
+  background-color: #e5c643;
+  width: 1920px;
+  height: 623px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text-block-1 {
+  font-family: var(--font-family);
+  font-weight: 900;
+  font-size: 55px;
+  line-height: 127%;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #fff;
+  padding: 141px 478px 358px 476px;
+  width: 966px;
+  height: 124px;
+}
+
+.text-block-2 {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 109%;
+  letter-spacing: 0.03em;
+  color: #fffcf8;
+  margin-top: 37px;
+  margin-left: 455px;
+  margin-right: 455px;
+  margin-bottom: 292px;
+  width: 1010px;
+  height: 29px;
+}
+
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1000px;
+  background: #fff;
+  border-radius: 10px;
+  margin-top: 49px;
+  margin-bottom: 156px;
+}
+
+.email-input {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 146%;
+  letter-spacing: 0.03em;
+  color: #767676;
+  padding: 27px 278px 35px 37px;
+  width: 269px;
+  height: 25px;
+}
+
+.send-button {
+  padding: 17px 35px 15px 38px;
+}
+
+.send-button button {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 33px;
+  line-height: 106%;
+  letter-spacing: 0.03em;
+  text-transform: capitalize;
+  color: #fff;
+  background-color: black;
+  border: none;
+  border-radius: 8px;
+  width: 161px;
+  height: 67px;
+}

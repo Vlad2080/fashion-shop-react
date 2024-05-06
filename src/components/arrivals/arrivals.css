@@ -1,0 +1,31 @@
+.arrivals {
+  padding-top: 120px;
+  padding-bottom: 143px;
+}
+
+.arrivals__header {
+  margin-bottom: 100px;
+}
+
+.arrivals__cards {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 30px;
+  padding-top: 82px;
+  padding-bottom: 143px;
+}
+
+.title-2 {
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 50px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+  font-family: "Poppins";
+}
+
+.arrivals__cards {
+  padding-top: 82px;
+  padding-bottom: 143px;
+}
