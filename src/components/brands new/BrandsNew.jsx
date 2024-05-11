@@ -1,5 +1,7 @@
 const BrandsNew = () => {
-    return (  );
+    return (
+        
+      );
 }
  
 export default BrandsNew;
